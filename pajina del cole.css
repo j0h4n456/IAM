@@ -1,0 +1,67 @@
+ 
+
+.body{
+    
+    background-color: white;
+}
+.contenedor{
+    margin-left: 170px;
+    margin-right: 170px;
+}
+ 
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: 9;
+} 
+.main-header{
+    position: relative;
+    background: url(img4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+
+.background-overlay{
+    position: absolute;
+    background: rgba();
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.card{
+    float: left;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.contenido{
+    background-color:darkgrey ;
+}
+.cont{
+    
+    background-color: whitesmoke;
+    
+}
+.contt{
+    background-color: gainsboro;
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
